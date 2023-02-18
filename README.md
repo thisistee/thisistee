@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thisistee
-- 👀 I’m interested in Software Engineering & Process Improvement
-- 🌱 I’m currently learning Software Engineering and Process Improvement
-- 💞️ I’m looking to collaborate on Software Developer
+- 👀 I’m interesting in Software Engineering & Process Improvement
+- 🌱 Nothing cant do, the innovative need to lead with great idea.
+- 💞️ I’m looking for collaborate on Software Developer
 - 📫 reach me on www.tansamai.tech
 
 <!---
